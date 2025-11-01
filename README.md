@@ -1,3 +1,10 @@
+<h1 align="center">Hi 👋, I'm Marx Leal Brochero</h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=1B98E0&center=true&vCenter=true&width=550&lines=Full+Stack+Developer;Building+scalable+and+clean+projects;Turning+ideas+into+digital+reality;Always+learning+and+innovating" alt="Typing SVG" />
+  </a>
+</p>
+
 # 💫 About Me:
 I’m a passionate software developer driven by the goal of building scalable, clean, and innovative projects. I believe that code is not just logic — it’s a bridge that transforms real-world ideas into digital experiences. My focus is on creating solutions that combine solid architecture, efficiency, and creativity to deliver meaningful impact.
 
