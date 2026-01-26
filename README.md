@@ -18,6 +18,7 @@ Junior Backend Developer with a technical background and **1 year of experience*
 - Worked under **professional Git workflows** with CI/CD pipelines
 
 ## Contact
+---
 Open to **Junior Backend Developer** opportunities.  
 Email: marxleal@hotmail.com  
 Location: Barranquilla, Colom
