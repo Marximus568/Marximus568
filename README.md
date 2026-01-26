@@ -21,11 +21,6 @@ Junior Backend Developer with a technical background and **1 year of experience*
 Open to **Junior Backend Developer** opportunities.  
 Email: marxleal@hotmail.com  
 Location: Barranquilla, Colom
-
-## Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marx-leal-brochero-79a615329)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:marximusleal568@gmail.com)
-
 ---
 
 ## Tech Stack
