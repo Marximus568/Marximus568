@@ -7,9 +7,20 @@
 </p>
 
 ## About Me
-I’m a passionate software developer driven by the goal of building scalable, clean, and innovative projects.  
-I believe that code is not just logic — it’s a bridge that transforms real-world ideas into digital experiences.  
-My focus is on creating solutions that combine solid architecture, efficiency, and creativity to deliver meaningful impact.
+Junior Backend Developer with a technical background and **1 year of experience** building backend systems and APIs using **C# and ASP.NET Core (.NET 8)**. Focused on designing **maintainable, scalable, and well-structured backend solutions**.
+
+## Impact
+- Designed and implemented **RESTful APIs** for ERP, e-commerce, and enterprise-style projects  
+- Applied **SOLID, CQRS, and Dependency Injection** to achieve low coupling and high maintainability  
+- Implemented **centralized error handling, validation, and standardized HTTP responses**  
+- Integrated **PostgreSQL** with clean data access layers  
+- Deployed backend services to **production-ready environments** using Docker and cloud platforms  
+- Worked under **professional Git workflows** with CI/CD pipelines
+
+## Contact
+Open to **Junior Backend Developer** opportunities.  
+Email: marxleal@hotmail.com  
+Location: Barranquilla, Colom
 
 ## Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marx-leal-brochero-79a615329)
