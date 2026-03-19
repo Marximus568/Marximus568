@@ -99,11 +99,4 @@ Open to Full-Stack Developer, Backend, Automation, and Digital Transformation ro
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marximus568&theme=dark&hide_border=true&layout=compact"/>
 </p>
 
----
 
-### Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Marximus568&limit=5&theme=onedark&combine_all_yearly_contributions=true)
-
----
-
-[![](https://visitcount.itsvg.in/api?id=Marximus568&icon=0&color=4)](https://visitcount.itsvg.in)
