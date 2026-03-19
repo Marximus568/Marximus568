@@ -12,6 +12,8 @@
 
 Backend Developer with a technical background and experience building **scalable APIs, microservices, and data-driven systems** using **C# and ASP.NET Core (.NET 8)**, along with **Node.js (NestJS)**.
 
+I also have experience in frontend development using **React, Next.js, and Angular**, allowing me to build complete solutions and understand end-to-end system architecture.
+
 Focused on **automation, process optimization, and digital transformation**, designing solutions that improve efficiency, reduce manual work, and enable better decision-making through data.
 
 I combine backend development with:
@@ -24,6 +26,7 @@ I combine backend development with:
 ## 💡 What I Do
 
 - Design and build **RESTful APIs and microservices**
+- Develop **full-stack solutions** with modern frontend frameworks
 - Automate workflows using **APIs, scripts, and data pipelines**
 - Structure systems using **Clean Architecture, SOLID & CQRS**
 - Enable **data collection, transformation, and visualization**
@@ -34,7 +37,7 @@ I combine backend development with:
 ## 📈 Impact
 
 - Designed and implemented backend systems for **ERP, e-commerce, and enterprise-style solutions**
-- Built architectures focused on **scalability, maintainability, and low coupling**
+- Built scalable applications with **React, Next.js, and Angular**
 - Automated operational processes (reports, data flows, integrations)
 - Enabled **data-driven dashboards** for business insights
 - Integrated **PostgreSQL** with optimized data access layers
@@ -53,6 +56,8 @@ I combine backend development with:
 
 ### 🌐 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -82,7 +87,7 @@ I combine backend development with:
 📍 Barranquilla, Colombia  
 📧 marxleal@hotmail.com  
 
-💼 Open to **Backend Developer / Automation / Digital Transformation roles**
+💼 Open to **Backend Developer / Full-Stack / Automation / Digital Transformation roles**
 
 ---
 
